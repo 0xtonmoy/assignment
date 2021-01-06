@@ -1,0 +1,121 @@
+body{
+    margin: 0;
+    font-family: 'Alegreya', serif;
+}
+section{
+    height: 550px;
+    padding-bottom: 150px;
+}
+h1{
+    font-size: 50px;
+    padding: 0;
+    margin: 0;
+    font-weight: 700;
+}
+
+.hheading{
+    padding-top: 30px;
+}
+.head-paragraph{
+    padding: 30px 0;
+}
+
+.header-area{
+    
+}
+.half-page{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+}
+.half-page img{
+    width: 100%;
+}
+.click-button{
+    text-decoration: none;
+    color: white;
+   background-image: linear-gradient(90deg,lightsalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-weight: 700;
+   
+}
+.colored-heading{
+    color: orange;
+}
+
+
+.project-area{
+    text-align: center;
+    width: 80%;
+    margin: auto;
+}
+.pproject{
+    padding-top: 80px;
+}
+.project-content{
+    width: 26%;
+    box-shadow: 10px 10px 50px rgb(92, 93, 94);
+    border-radius: 15px;
+    float: left;
+    margin-left: 5%;
+}
+.project-content h3{
+    text-align: left;
+    padding-left: 15px;
+    color: orange;
+}
+.project-content p{
+    text-align: left;
+    color: rgb(101, 105, 116);
+    font-size: 15px;
+    padding-left: 15px;
+}
+.project-img img{
+    width: 95%;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+.chat-area{
+    height: 300px;
+}
+
+.inquiry-content{
+    padding-bottom: 3%;
+    padding-right: 70px;
+    padding-left: 90px%;
+    width: 76%;
+    text-align: center;
+    margin:auto;
+    background-image: url(images/Group_33094_1.png);
+    background-size: cover;
+    height: 258px;
+    color: white;
+}
+.inquiry-heading{
+    float: left;
+    padding:10%;
+}
+
+.inquiry-button{
+    text-decoration: none;
+    padding-top: 129px;
+    float: right;
+    padding-right: 58px;
+    color: burlywood;
+}
+
+
+.footerr p{
+    text-align: center;
+    color: chocolate;
+    font-size: 20px;
+    font-weight: 800;
+}
+.contact{
+    text-decoration: none;
+    text-align: center;
+    color: grey;
+}
